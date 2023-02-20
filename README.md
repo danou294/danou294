@@ -4,6 +4,9 @@
 )](https://discordapp.com/users/danou294#5510/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raphaeldray/](https://www.linkedin.com/in/daniellevy2904/))
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=Developpeur+Web+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
+
+
 
 
 ![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=danou294&show_icons=true)
