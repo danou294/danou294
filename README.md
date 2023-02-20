@@ -19,7 +19,18 @@ As a Bachelor's degree graduate in Digital Project Management, I am passionate a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+📊 ** Activity ** 
 
+```text
+⌚︎ Time Zone: Europe/Paris
+
+🐱‍💻 Projects: 
+Developpement Java
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 ## **📊 Visitor counter ?**
 
