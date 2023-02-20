@@ -10,18 +10,17 @@
 
 As a Bachelor's degree graduate in Digital Project Management, I am passionate about technology and innovation. With my experience in project management, I am able to quickly adapt to changing situations and effectively manage challenges. I have successfully led several digital projects. My collaborative approach and ability to communicate effectively have been widely praised by my colleagues and clients. I am constantly seeking new learning opportunities to improve my skills and stay ahead of the industry.
 
-
-
-![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=danou294&show_icons=true)
+## **Personnal Statistic**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danou294&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## **📊 How popular this page is?**
-
-![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
 
 ## **Top 10 language**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+## **📊 Visitor counter ?**
+
+![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
