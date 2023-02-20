@@ -1,6 +1,6 @@
 ### Welcome everybody 👋
 
-<img src="[https://github.com/danou294/MrrRaph/blob/master/header.png](https://github.com/danou294/danou294/blob/main/header.jpg)?raw=true">
+<img src="(https://github.com/danou294/danou294/blob/main/header.jpg)?raw=true">
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/danou294#5510/)
