@@ -20,7 +20,7 @@ As a Bachelor's degree graduate in Digital Project Management, I am passionate a
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danou294&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## **Top 10 language**
+## **Top language**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
