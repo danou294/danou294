@@ -30,7 +30,7 @@ As a Bachelor's degree graduate in Digital Project Management, I am passionate a
 ⌚︎ Time Zone: Europe/Paris
 
 🐱‍💻 Projects: 
-Developpement Java
+Developpement Java/springboot
 
 💻 Operating System: 
 No Activity Tracked This Week
