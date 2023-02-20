@@ -1,6 +1,9 @@
 ### Welcome everybody 👋
 
-<img src="https://github.com/danou294/danou294/blob/main/header.jpg?raw=true">
+<p align="center">
+  <img src="https://github.com/danou294/danou294/blob/main/header.jpg?raw=true" alt="Header image" style="width:100%;">
+</p>
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discordapp.com/users/danou294#5510/)
