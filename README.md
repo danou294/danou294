@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=danou294&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danou294&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
+
