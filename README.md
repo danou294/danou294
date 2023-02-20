@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=Developpeur+Web+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
 
-```text
+```
 As a Bachelor's degree graduate in Digital Project Management, I am passionate about technology and innovation. With my experience in project management, I am able to quickly adapt to changing situations and effectively manage challenges. I have successfully led several digital projects. My collaborative approach and ability to communicate effectively have been widely praised by my colleagues and clients. I am constantly seeking new learning opportunities to improve my skills and stay ahead of the industry.
 ```
 
