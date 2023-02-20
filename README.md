@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## **📊 How popular this page is?**
 
-![Visitor Count](https://profile-counter.glitch.me/MrrRaph/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
 
 ## **Top 10 language**
 
