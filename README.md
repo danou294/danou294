@@ -13,7 +13,13 @@
 
 ## How i am ? 
 
-As a Bachelor's degree graduate in Digital Project Management, I am passionate about technology and innovation. With my experience in project management, I am able to quickly adapt to changing situations and effectively manage challenges. I have successfully led several digital projects. My collaborative approach and ability to communicate effectively have been widely praised by my colleagues and clients. I am constantly seeking new learning opportunities to improve my skills and stay ahead of the industry.
+Dynamique Junior Full-Stack Web Developer, my
+curiosity 🌟 and enthusiasm for learning
+📚 have always guided me towards new technological discoveries.
+I adapt quickly and apply my
+new skills for innovative solutions.
+Eager to take on new challenges and bring my
+creative touch to the team! 💡
 
 ## **Personnal Statistic**
 
