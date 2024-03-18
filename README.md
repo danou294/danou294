@@ -25,19 +25,6 @@ En formation continue et ouvert aux opportunités !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 ** Activity ** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-🐱‍💻 Projects: 
-Developpement Java/springboot
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 ## **📊 Visitor counter ?**
 
 ![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
