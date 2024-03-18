@@ -1,7 +1,7 @@
 ### Welcome everybody 👋
 
 <p align="center">
-  <img src="https://github.com/danou294/danou294/blob/main/header.jpg?raw=true" alt="Header image" style="width:100%;">
+  <img src="https://github.com/danou294/danou294/blob/main/img.jpg?raw=true" alt="Header image" style="width:100%;">
 </p>
 
 
@@ -13,13 +13,8 @@
 
 ## How i am ? 
 
-Dynamique Junior Full-Stack Web Developer, my
-curiosity 🌟 and enthusiasm for learning
-📚 have always guided me towards new technological discoveries.
-I adapt quickly and apply my
-new skills for innovative solutions.
-Eager to take on new challenges and bring my
-creative touch to the team! 💡
+Développeur React avec Vite et Next.js, passionné par les nouvelles technologies.
+En formation continue et ouvert aux opportunités !
 
 ## **Personnal Statistic**
 
