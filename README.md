@@ -1,30 +1,94 @@
-### Welcome everybody 👋
-
+<!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://github.com/danou294/danou294/blob/main/img.jpg?raw=true" alt="Header image" style="width:100%;">
+  <img src="https://github.com/danou294/danou294/blob/main/img.jpg?raw=true" alt="Header image" width="100%">
 </p>
 
+<!-- BADGES RESEAUX -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniellevy2904/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/danou294#5510">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-)](https://discordapp.com/users/danou294#5510/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raphaeldray/](https://www.linkedin.com/in/daniellevy2904/))
+<!-- TITRE AVEC ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Node.js+|+React+Next.js+|+Flutter;Data+Architecture+%26+Automation" alt="Typing SVG">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=web+developper+%F0%9F%92%BB;Fullstack+Developer+junior)](https://git.io/typing-svg)
+---
 
-## How i am ? 
+## 👨‍💻 About Me
 
-Développeur React avec Vite et Next.js, passionné par les nouvelles technologies.
-En formation continue et ouvert aux opportunités !
+| 🚀 | Fullstack & Mobile Developer |
+|----|------------------------------|
+| 🎯 | Spécialisé en création de solutions performantes et scalables |
+| 🗄 | Expertise en bases de données NoSQL (MongoDB, Firestore) |
+| 🔄 | Automatisation de flux de données & intégration API |
+| 🛠 | Passionné par l’optimisation, l’UI/UX et la qualité produit |
 
-## **Personnal Statistic**
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danou294&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Skills
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
-## **Top language**
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📂 Featured Projects
 
-## **📊 Visitor counter ?**
+### 🍽 Butter  
+**Description :** Application mobile pour découvrir et gérer des restaurants.  
+**Stack :** Flutter, Firestore (NoSQL), Google Places API, Node.js pour automatisation.  
+**Points forts :**  
+- Récupération automatisée des données restaurants via API + web scraping ciblé  
+- Conversion et normalisation pour modèle NoSQL optimisé  
+- Règles de sécurité Firestore  
+
+🔗 [Voir sur GitHub](https://github.com/danou294/butter2)
+
+---
+
+### 🏗 Syg CRM  
+**Description :** Solution CRM pour le secteur BTP avec gestion clients, sites et opérations.  
+**Stack :** Node.js, React (Next.js), MongoDB, Docker, AWS.  
+**Points forts :**  
+- Modélisation NoSQL optimisée pour performances  
+- API REST complète avec gestion des droits utilisateurs  
+- Déploiement et containerisation via Docker & AWS  
+
+🔗 [Voir sur GitHub](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danou294&count_private=true&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danou294&langs_count=8&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- IMAGE POKEMON -->
+<p align="center">
+  <strong>🎮 Prêt pour une nouvelle aventure ?</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/danou294/danou294/blob/main/pokemon.jpg?raw=true" alt="A new adventure begins" width="500">
+</p>
+
+---
 
 ![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
