@@ -80,15 +80,14 @@
 
 ---
 
-<!-- IMAGE POKEMON -->
-<p align="center">
-  <strong>🎮 Prêt pour une nouvelle aventure ?</strong>
-</p>
+## 🎮 Prêt pour une nouvelle aventure ?
 
 <p align="center">
-  <img src="https://github.com/danou294/danou294/blob/main/pokemon.jpg?raw=true" alt="A new adventure begins" width="500">
+  <img src="https://github.com/danou294/danou294/blob/main/pokemon.jpg?raw=true" width="400" alt="Pixel art Pokemon - A new adventure begins">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/danou294/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danou294&style=for-the-badge&color=blue" alt="Profile views">
+</p>
