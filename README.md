@@ -2,6 +2,19 @@
 
 **Développeur produit web, mobile et IA.**
 
+<p align="center">
+  <img src="./assets/terminal-card.svg" alt="Terminal card: ship web, mobile and AI products" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=38BDF8" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=38BDF8" alt="Flutter">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FACC15" alt="Python">
+  <img src="https://img.shields.io/badge/AI%20workflows-0F172A?style=flat-square&amp;logo=openai&amp;logoColor=FFFFFF" alt="AI workflows">
+</p>
+
 Je construis des produits depuis 2021 pour des startups, PME, ESN et équipes produit qui ont besoin d'un profil capable de transformer un besoin métier en produit livré.
 
 J'interviens sur toute la chaîne : cadrage, architecture, développement, intégrations, tracking, mise en production et itérations.

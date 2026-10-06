@@ -1,0 +1,56 @@
+<svg width="960" height="280" viewBox="0 0 960 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Levy terminal card</title>
+  <desc id="desc">A terminal-inspired card presenting Daniel Levy as a product developer for web, mobile and AI products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#101828"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="68" y1="210" x2="792" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.17 0 0 0 0 0.78 0 0 0 0 0.49 0 0 0 0.35 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#233044" stroke-opacity="0.36" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="960" height="280" rx="24" fill="url(#grid)" opacity="0.55"/>
+  <circle cx="806" cy="52" r="130" fill="#38BDF8" opacity="0.08"/>
+  <circle cx="122" cy="246" r="150" fill="#22C55E" opacity="0.08"/>
+
+  <rect x="42" y="38" width="876" height="204" rx="18" fill="#0A0F1C" fill-opacity="0.82" stroke="#263449"/>
+  <rect x="42" y="38" width="876" height="42" rx="18" fill="#111827"/>
+  <path d="M42 62C42 48.745 52.745 38 66 38H894C907.255 38 918 48.745 918 62V80H42V62Z" fill="#111827"/>
+
+  <circle cx="70" cy="59" r="6" fill="#F87171"/>
+  <circle cx="92" cy="59" r="6" fill="#FBBF24"/>
+  <circle cx="114" cy="59" r="6" fill="#34D399"/>
+  <text x="146" y="65" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="13">product-shell</text>
+
+  <text x="70" y="118" fill="#22C55E" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="18">$</text>
+  <text x="96" y="118" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="18">ship --web --mobile --ai --clean</text>
+  <rect x="466" y="101" width="11" height="22" rx="2" fill="#38BDF8" opacity="0.9"/>
+
+  <text x="70" y="154" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="15">&gt; scope: cadrage · architecture · dev · integrations · prod</text>
+  <text x="70" y="184" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="15">&gt; output: MVPs · SaaS · apps · AI workflows · dashboards</text>
+  <text x="70" y="214" fill="#E5E7EB" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="15">&gt; status: products shipped, monitored, iterated</text>
+  <rect x="70" y="228" width="560" height="3" rx="1.5" fill="url(#line)" filter="url(#glow)"/>
+
+  <g transform="translate(704 100)">
+    <rect x="0" y="0" width="144" height="96" rx="14" fill="#111827" stroke="#263449"/>
+    <circle cx="38" cy="32" r="8" fill="#22C55E"/>
+    <circle cx="72" cy="32" r="8" fill="#38BDF8"/>
+    <circle cx="106" cy="32" r="8" fill="#A78BFA"/>
+    <path d="M38 40V62H72M72 40V62M106 40V62H72" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
+    <text x="30" y="82" fill="#CBD5E1" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="11">build graph</text>
+  </g>
+</svg>
