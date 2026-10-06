@@ -6,7 +6,7 @@ Je construis des produits depuis 2021 pour des startups, PME, ESN et équipes pr
 
 J'interviens sur toute la chaîne : cadrage, architecture, développement, intégrations, tracking, mise en production et itérations.
 
-[LinkedIn](https://www.linkedin.com/in/daniellevy2904/) · [Portfolio](https://portfolio-danou294s-projects.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/daniellevy2904/) · [Portfolio](https://levy-daniel.fr)
 
 ---
 
