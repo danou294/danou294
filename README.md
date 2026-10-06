@@ -79,18 +79,6 @@ Industrialisation d'une chaîne data pour automatiser la création d'e-shops BTP
 
 ---
 
-## Repos publics
-
-| Projet | Sujet |
-|---|---|
-| [portfolio](https://github.com/danou294/portfolio) | Portfolio personnel et vitrine produit |
-| [codesphere-public](https://github.com/danou294/codesphere-public) | IDE web avec React, TypeScript, Monaco Editor, Django et Docker |
-| [workflow-builder](https://github.com/danou294/workflow-builder) | Exploration d'interface pour construire des workflows |
-| [sairen_workflow](https://github.com/danou294/sairen_workflow) | Prototype de workflows orientés produit IA |
-| [Uniconcept](https://github.com/danou294/Uniconcept) | Site web public déployé sur Vercel |
-
----
-
 ## Me contacter
 
 Le plus simple : [LinkedIn](https://www.linkedin.com/in/daniellevy2904/).
